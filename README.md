@@ -1,0 +1,2 @@
+# airplane
+Django Sql practice
